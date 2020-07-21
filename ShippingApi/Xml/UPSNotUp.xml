@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RatingServiceSelectionResponse>
+  <Response>
+    <ResponseStatusCode>0</ResponseStatusCode>
+    <ResponseStatusDescription>UPS Not Online</ResponseStatusDescription>
+    <Error>
+      <ErrorSeverity>Hard</ErrorSeverity>
+      <ErrorCode>990001</ErrorCode>
+      <ErrorDescription>This Program could not contact UPS Online</ErrorDescription>
+    </Error>
+  </Response>
+</RatingServiceSelectionResponse>
